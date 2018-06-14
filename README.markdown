@@ -1,4 +1,4 @@
-# salesforce-calendar     [![Deploy to Salesforce](https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png)](https://githubsfdeploy.herokuapp.com?owner=sjurgis&repo=salesforce-calendar)
+# salesforce-calendar     [![Deploy to Salesforce](https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png)](https://githubsfdeploy.herokuapp.com/?owner=nickforce&repo=salesforce-calendar)
 Custom calendar built on FullCalendar JavaScript framework. Easily to customize to work with custom objects.
 This is an adaptation of Cody Sechelski's [Create a Calendar View in Salesforce.com](http://www.codebycody.com/2013/06/create-calendar-view-in-salesforcecom.html).
 
